@@ -666,4 +666,4 @@ This dashboard provides comprehensive analysis of BMW car sales data containing 
 The analysis includes sales patterns, pricing trends, regional preferences, model comparisons, and strategic insights.
 Use the sidebar filters to explore specific segments of the data.
 """)
-# C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe -m streamlit run final.py
+
